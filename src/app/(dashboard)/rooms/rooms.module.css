@@ -1,0 +1,30 @@
+.osloBackground {
+  background:linear-gradient(0deg, rgba(52, 51, 57, 0.4), rgba(52, 51, 57, 0.4)),  url("/rooms/oslo.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.newyorkBackground {
+  background:linear-gradient(0deg, rgba(52, 51, 57, 0.4), rgba(52, 51, 57, 0.4)),  url("/rooms/newyork.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.lisbonBackground {
+  background:linear-gradient(0deg, rgba(52, 51, 57, 0.4), rgba(52, 51, 57, 0.4)),  url("/rooms/lisbon.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.berlinBackground {
+  background:linear-gradient(0deg, rgba(52, 51, 57, 0.4), rgba(52, 51, 57, 0.4)),  url("/rooms/berlin.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.madridBackground {
+  background:linear-gradient(0deg, rgba(52, 51, 57, 0.4), rgba(52, 51, 57, 0.4)),  url("/rooms/madrid.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

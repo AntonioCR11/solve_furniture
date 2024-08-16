@@ -1,0 +1,31 @@
+.bannerBackground {
+  background:linear-gradient(0deg, rgba(52, 51, 57, 0.4), rgba(52, 51, 57, 0.4)),  url("/frontpage/banner.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bannerBackground2 {
+  background:linear-gradient(0deg, rgba(52, 51, 57, 0.4), rgba(52, 51, 57, 0.4)),  url("/frontpage/banner2.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.roomBackground1 {
+  background:linear-gradient(0deg, rgba(52, 51, 57, 0.3), rgba(52, 51, 57, 0.3)),  url("/frontpage/room1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.roomBackground2 {
+  background:linear-gradient(0deg, rgba(52, 51, 57, 0.3), rgba(52, 51, 57, 0.3)),  url("/frontpage/room2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.roomBackground3 {
+  background:linear-gradient(0deg, rgba(52, 51, 57, 0.3), rgba(52, 51, 57, 0.3)),  url("/frontpage/room3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
